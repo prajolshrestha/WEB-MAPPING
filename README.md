@@ -33,8 +33,8 @@ Finally, the feature groups are added to the map object, and the LayerControl ob
 This project shows how easy it is to create interactive maps using the Folium library in Python. With this project as a starting point, you can build more complex and informative maps by exploring different features of the Folium library.
 
 #Credits
-This motion detector app was built by PRAJOL SHRESTHA as a personal project. 
+This WEB-Mapping app was built by PRAJOL SHRESTHA as a personal project. 
 If you have any feedback or suggestions, feel free to create a pull request or contact me via email.
 
 #License
-This motion detector app is licensed under the MIT License. You are free to use, modify, and distribute this application as long as you give credit to the original author.
+This WEB-Mapping app is licensed under the MIT License. You are free to use, modify, and distribute this application as long as you give credit to the original author.
