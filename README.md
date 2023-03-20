@@ -1,9 +1,9 @@
 # WEB-MAPPING
 
-#Volcano Map using Folium
+## Volcano Map using Folium
 This project is a simple implementation of volcano map using the Folium library. The map shows locations of volcanoes in the United States and their respective elevation levels. It also displays a population heatmap based on the population in different areas.
 
-#Prerequisites
+## Prerequisites
 Before running this project, make sure you have the following installed:
 
 Python 3
@@ -11,12 +11,12 @@ Pandas
 Folium
 Jupyter Notebook or any other Python editor
 
-#Running the project
+## Running the project
 Download or clone the repository to your local machine.
 Run volcano_map.py file.
 The map will be saved as an HTML file named Map1.html in the same directory.
 
-#Understanding the code
+## Understanding the code
 The code begins by importing necessary libraries and reading the Volcanoes.txt file containing information about the volcanoes. It reads the latitude, longitude, elevation, and name of the volcanoes from the file and stores them in separate lists.
 
 The map object is created using the Map class provided by the Folium library. The location and zoom level of the map are set, and the base layer of the map is added.
@@ -29,12 +29,12 @@ Another FeatureGroup layer is created for the population, and a polygon is added
 
 Finally, the feature groups are added to the map object, and the LayerControl object is added to control the visibility of each layer. The map is then saved as an HTML file.
 
-#Conclusion
+## Conclusion
 This project shows how easy it is to create interactive maps using the Folium library in Python. With this project as a starting point, you can build more complex and informative maps by exploring different features of the Folium library.
 
-#Credits
+## Credits
 This WEB-Mapping app was built by PRAJOL SHRESTHA as a personal project. 
 If you have any feedback or suggestions, feel free to create a pull request or contact me via email.
 
-#License
+## License
 This WEB-Mapping app is licensed under the MIT License. You are free to use, modify, and distribute this application as long as you give credit to the original author.
